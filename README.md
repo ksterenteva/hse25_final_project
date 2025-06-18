@@ -1,5 +1,7 @@
 # hse25_final_project
 
+[Ссылка на таблицу семейство-ген]()
+
  [Ноутбук](https://colab.research.google.com/drive/1cliGoyr4nOSKiKhI7chDXQqeXOeOqGJP?usp=sharing) с запусками поисков Z ДНК (ZDNABERT, zhunt c фильтрацией по z-score >400)) и квадруплексов на обоих стрендах)
 
  Ноутбук 3

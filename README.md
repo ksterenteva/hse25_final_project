@@ -1,9 +1,14 @@
 # hse25_final_project
 
+## Гены эпигенетики
+
 [Таблица семейство - ген](https://github.com/ksterenteva/hse25_final_project/blob/88c5e88f3998e688d5022e76580341146f8337ec/outputs/gene_family_table-2.csv)
 
-[Ноутбук эпигенетика]()
- [Ноутбук ZДНК](https://colab.research.google.com/drive/1cliGoyr4nOSKiKhI7chDXQqeXOeOqGJP?usp=sharing) с запусками поисков Z ДНК (ZDNABERT, zhunt c фильтрацией по z-score >400)) и квадруплексов на обоих стрендах)
+[Ноутбук эпигенетика](https://github.com/ksterenteva/hse25_final_project/blob/2bc94d5f8328c493efcef56fdbd4ad925bd45a09/scripts/final_project_bioinf1.ipynb)
+
+## Z ДНК и квадруплексы
+
+[Ноутбук ZДНК](https://colab.research.google.com/drive/1cliGoyr4nOSKiKhI7chDXQqeXOeOqGJP?usp=sharing) с запусками поисков Z ДНК (ZDNABERT, zhunt c фильтрацией по z-score >400)) и квадруплексов на обоих стрендах)
 
  Ноутбук 3
 

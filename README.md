@@ -2,7 +2,8 @@
 
 [Таблица семейство - ген](https://github.com/ksterenteva/hse25_final_project/blob/88c5e88f3998e688d5022e76580341146f8337ec/outputs/gene_family_table-2.csv)
 
- [Ноутбук](https://colab.research.google.com/drive/1cliGoyr4nOSKiKhI7chDXQqeXOeOqGJP?usp=sharing) с запусками поисков Z ДНК (ZDNABERT, zhunt c фильтрацией по z-score >400)) и квадруплексов на обоих стрендах)
+[Ноутбук эпигенетика]()
+ [Ноутбук ZДНК](https://colab.research.google.com/drive/1cliGoyr4nOSKiKhI7chDXQqeXOeOqGJP?usp=sharing) с запусками поисков Z ДНК (ZDNABERT, zhunt c фильтрацией по z-score >400)) и квадруплексов на обоих стрендах)
 
  Ноутбук 3
 

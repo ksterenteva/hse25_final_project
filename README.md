@@ -1,5 +1,13 @@
 # hse25_final_project
 
+# Acropora millepora
+
+<img width="759" alt="Снимок экрана 2025-06-19 в 19 40 16" src="https://github.com/user-attachments/assets/db81abb9-cf7a-463c-b157-1341dbd4446b" />
+
+
+
+
+
 ## Гены эпигенетики
 
 [Таблица семейство - ген](https://github.com/ksterenteva/hse25_final_project/blob/88c5e88f3998e688d5022e76580341146f8337ec/outputs/gene_family_table-2.csv)
